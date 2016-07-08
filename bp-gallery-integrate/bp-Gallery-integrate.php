@@ -3,7 +3,7 @@
 Plugin Name: BP Gallery Integrate
 Description: Integrate Gallery with Buddypress profiles
 Version: 1.0
-Author: Gurpal
+Author: Harkirat
 License: GPL2
 */
 
